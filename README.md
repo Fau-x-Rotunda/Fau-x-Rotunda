@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pablo
 
-This account has been specifically created for the technical assessment provided by **Rotunda**. The repositories and projects here showcase my solutions and approaches to the tasks assigned during the evaluation.
+This account has been specifically created for the technical assessment provided by **Rotunda**. The repository here showcase my solutions and approaches to the tasks assigned during the evaluation.
 
 ## 🔍 About This Profile
 
